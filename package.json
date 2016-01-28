@@ -1,0 +1,21 @@
+{
+  "name": "typescript-co-promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.4.5",
+    "babel-loader": "^6.2.1",
+    "bluebird": "^3.1.5",
+    "co": "^4.6.0",
+    "jquery": "^2.2.0",
+    "ntypescript": "^1.201601272211.1",
+    "ts-loader": "^0.8.0",
+    "webpack": "^1.12.12"
+  }
+}
